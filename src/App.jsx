@@ -33,7 +33,7 @@ function App() {
       </header>
     </div>
       <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
+        This is dev branch code
       </p>
     </>
   )
